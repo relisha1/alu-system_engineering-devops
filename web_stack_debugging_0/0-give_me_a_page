@@ -1,4 +1,4 @@
-cd..#!/usr/bin/env bash
+#!/usr/bin/env bash
 # configure my apache file so that when querying the root to return Holberton school
 
 sudo apt-get update
